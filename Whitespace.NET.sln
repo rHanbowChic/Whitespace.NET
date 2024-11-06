@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Whitespace", "Whitespace\Whitespace.csproj", "{765AE81F-F4F6-40D0-92E7-63B272F65C94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhitespaceTests", "WhitespaceTests\WhitespaceTests.csproj", "{61E24536-E090-4A31-B2F5-698ACA5F348A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2FDC7E6E-A1BA-417A-A950-0AA57EBEA59D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765AE81F-F4F6-40D0-92E7-63B272F65C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765AE81F-F4F6-40D0-92E7-63B272F65C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765AE81F-F4F6-40D0-92E7-63B272F65C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765AE81F-F4F6-40D0-92E7-63B272F65C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E24536-E090-4A31-B2F5-698ACA5F348A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E24536-E090-4A31-B2F5-698ACA5F348A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E24536-E090-4A31-B2F5-698ACA5F348A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E24536-E090-4A31-B2F5-698ACA5F348A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6539D84B-9F63-4ADD-90EC-AF0EE03A9FEC}
+	EndGlobalSection
+EndGlobal
